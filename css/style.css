@@ -30,7 +30,7 @@ td{
 }
 
 .toku{
-    font-size: 1.5vw;
+    font-size: 1.8vw;
 }
 .btn-former{
     /*影の基点とするためrelativeを指定*/
@@ -436,6 +436,9 @@ h3{
 
 
 @media screen and (max-width:480px) {
+    body{
+    margin:auto;
+    }
     main{
         clear:both;
         width: 100vw;
