@@ -433,6 +433,9 @@ h3{
 #mypic{
     width: 40%;
 }
+.mercari{
+float:left;
+}
 
 
 @media screen and (max-width:480px) {
